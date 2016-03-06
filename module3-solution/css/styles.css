@@ -11,4 +11,5 @@ body { padding-top: 70px; }
 
 #chicken-section, #beef-section, #sushi-section {
 	padding-top: 50px;
+	margin-bottom: 10px;
 }
