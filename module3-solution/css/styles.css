@@ -1,0 +1,14 @@
+body { padding-top: 70px; }
+
+.item-section {
+	background-color: #ffe5cc;
+	padding: 20px;
+}
+
+.item-section h2 {
+	padding-bottom: 20px;
+}
+
+#chicken-section, #beef-section, #sushi-section {
+	padding-top: 50px;
+}
